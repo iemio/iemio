@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I know some tech.  
+I like tech.  
 [_Err 206!]
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iemio&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
