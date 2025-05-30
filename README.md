@@ -1,4 +1,4 @@
-## Hey 👋, I'm Keshav !
+## Hey 👋
 
 <!--
 **iemio/iemio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```yaml
-username: emio
 interests:
   - Cybersecurity
   - Cloud Architecture
   - Distributed Systems
   - Generative AI
 ```
-[Err 206!]
+[Err 206]
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iemio&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
