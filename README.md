@@ -1,4 +1,4 @@
-## Hey 👋
+## ђเ Շђєгє! 👋
 
 <!--
 **iemio/iemio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ interests:
   - Distributed Systems
   - Generative AI
 ```
-[Err 206]
+[єгг๏г_206]
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iemio&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
