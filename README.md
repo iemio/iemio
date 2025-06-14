@@ -1,4 +1,4 @@
-## ђเ Շђєгє! 👋
+𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚘𝚗 𝚝𝚑𝚎 𝚌𝚕𝚘𝚞𝚍.
 
 <!--
 **iemio/iemio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ```yaml
 interests:
   - Cybersecurity
@@ -22,6 +24,10 @@ interests:
   - Generative AI
 ```
 [єгг๏г_206]
+-->
+
 <!-- Profile Views -->
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iemio&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
+-->
