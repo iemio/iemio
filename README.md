@@ -1,6 +1,9 @@
 <!-- 𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚘𝚗 𝚝𝚑𝚎 𝚌𝚕𝚘𝚞𝚍. -->
 
-> 𝙸 𝚓𝚞𝚜𝚝 𝚕𝚘𝚟𝚎 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚜𝚝𝚞𝚏𝚏 𝚝𝚑𝚊𝚝 𝚊𝚌𝚝𝚞𝚊𝚕𝚕𝚢 𝚠𝚘𝚛𝚔𝚜
+> Crafting solutions for the web
+
+Ping me on [𝚝𝚝𝚢𝚡](https://ttyx.vercel.app)
+
 <!--
 **iemio/iemio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
