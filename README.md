@@ -2,7 +2,7 @@
 
 > Crafting solutions for the web
 
-Ping me on [𝚝𝚝𝚢𝚡](https://ttyx.vercel.app)
+Ping me on [𝚝𝚝𝚢𝚡](https://ttyx.iemio.workers.dev)
 
 <!--
 **iemio/iemio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
