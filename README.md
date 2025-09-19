@@ -1,8 +1,9 @@
 <!-- 𝙸 𝚕𝚒𝚔𝚎 𝚝𝚘 𝚋𝚞𝚒𝚕𝚍 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚘𝚗 𝚝𝚑𝚎 𝚌𝚕𝚘𝚞𝚍. -->
 
-> Crafting solutions for the web
+> Crafting `solutions` --target=web
 
-Ping me on [𝚝𝚝𝚢𝚡](https://ttyx.iemio.workers.dev)
+`ping` me on [𝚝𝚝𝚢𝚡](https://ttyx.iemio.workers.dev)
+
 
 <!--
 **iemio/iemio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
