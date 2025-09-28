@@ -1,11 +1,20 @@
 name: Check Links
 on: [push, pull_request]
+
 jobs:
-  awesome-bot:
+  check-links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
+      # Install Ruby
+      - name: Install Ruby
+        run: sudo apt-get install ruby-full -y
+
+      # Install awesome_bot
+      - name: Install awesome_bot
+        run: gem install awesome_bot
+
+      # Run awesome_bot on README.md
       - name: Run awesome_bot
-        uses: millsp/awesome_bot-action@v2
-        with:
-          files: README.md
+        run: awesome_bot README.md --allow-redirect
