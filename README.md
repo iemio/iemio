@@ -2,7 +2,7 @@
 
 > Crafting `solutions` --target=web
 
-`ping` me on [𝚝𝚝𝚢𝚡](https://ttyx.iemio.workers.dev)
+`ping` me on [𝚝𝚝𝚢𝚡](https://ttyx.emio.workers.dev)
 
 
 <!--
